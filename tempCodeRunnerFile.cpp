@@ -1,0 +1,1 @@
+cout<<"P"<<p[i]<<endl;
